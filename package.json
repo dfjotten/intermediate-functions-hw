@@ -1,0 +1,22 @@
+{
+  "name": "intermediate-functions-hw",
+  "version": "1.0.0",
+  "description": "Deze opdracht bestaat uit meerdere opdrachtjes om met functies, scope en for-loops te kunnen oefenen. Om de opdracht te maken kun je de opdracht clonen of downloaden naar jouw eigen computer.",
+  "main": "functions-and-scope.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfjotten/intermediate-functions-hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfjotten/intermediate-functions-hw/issues"
+  },
+  "homepage": "https://github.com/dfjotten/intermediate-functions-hw#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
